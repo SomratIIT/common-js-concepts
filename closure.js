@@ -8,4 +8,4 @@ function stop()
     
 }
 const output = stop();
-console.log(typeof(output));
+console.log(output);
